@@ -1,0 +1,1 @@
+Comp 1950 Git lecture readme file. Thanks for taking a look.
